@@ -21,7 +21,7 @@ Copy or add the following snippet to your project's `.clinerules` file:
 - In contrary if a user write `NORULE:` you remove the according line from the "Additional Rules" section.
 - Persist these rules throughout the project lifecycle.
 - Ensure that all added rules are clear, specific, and actionable.
-- Format each rule as a separate bullet point.```
+- Format each rule as a separate bullet point.
 ```
 
 Now, whenever you want Roo Code to remember a new rule, simply type:
